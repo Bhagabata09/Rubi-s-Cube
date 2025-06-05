@@ -19,7 +19,7 @@ A 3D interactive Rubik’s Cube simulation built entirely using **HTML**, **CSS*
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://your-username.github.io/rubiks-cube)  
+👉 [Live Demo](https://bhagabata01.github.io/Rubi-s-Cube/)  
 > _(Replace with actual GitHub Pages or deployed link)_
 
 ---
